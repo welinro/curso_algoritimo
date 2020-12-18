@@ -1,0 +1,2 @@
+# curso_algoritimo
+ Curso_algoritimo_Curso_em_video
